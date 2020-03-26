@@ -34,14 +34,14 @@ Typecho 插件，用于在评论区显示用户使用的操作系统、浏览器
 ### Iconfont
 ### wikimedia
 
-> [Iconfont](https://www.iconfont.cn) - 阿里巴巴矢量图标库
+> [Iconfont](https://www.iconfont.cn) - 阿里巴巴矢量图标库<br />
 >[wikimedia](https://commons.wikimedia.org/wiki/File:Microsoft_Edge_logo.svg) - Microsoft Edge logo
 
 新版Edge浏览器图标由wikimedia提供，其余操作系统、浏览器图标均使用 Iconfont 提供的 SVG 矢量图标，在此感谢两个平台。
 
 ## 问题反馈
 
-本人根本没学过一点代码，全靠一点英语基础改代码，只是改了自己用，放在这里备份托管以下。
+本人根本没学过一门语言，全靠一点英语基础改代码，只是改了自己用，放在这里备份托管以下。
 
 所以建议到原作者[个人博客](https://hakula.xyz/project/ua_typecho.html)留言，或者通过[邮箱](mailto:i@hakula.xyz)联系他。
 
