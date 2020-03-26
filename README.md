@@ -30,15 +30,12 @@ Typecho 插件，用于在评论区显示用户使用的操作系统、浏览器
 本项目基于 [hakula139](https://github.com/hakula139) 的项目 [UserAgent for Typecho](https://github.com/hakula139/UserAgent-for-Typecho)，在此感谢。
 
 新版Edge浏览器发布有一段时间了，很少见到评论区UA图标用新版的，最多见到的是旧版图标新版的版本号，好在这个插件改动起来相对容易，还加入了自己使用的主题启用插件的方法，算是个备忘录。
-### Wordpress 插件
-
-> [WP-UserAgent](https://wordpress.org/plugins/wp-useragent)
-
-本项目实质就是将 Wordpress 平台的 UserAgent 插件移植到了 Typecho 平台，感谢原作者 [Kyle Baker](https://www.kyleabaker.com)。
 
 ### Iconfont
+### wikimedia
 
 > [Iconfont](https://www.iconfont.cn) - 阿里巴巴矢量图标库
+>[wikimedia](https://commons.wikimedia.org/wiki/File:Microsoft_Edge_logo.svg) - Microsoft Edge logo
 
 新版Edge浏览器图标由wikimedia提供，其余操作系统、浏览器图标均使用 Iconfont 提供的 SVG 矢量图标，在此感谢两个平台。
 
